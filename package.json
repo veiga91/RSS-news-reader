@@ -1,0 +1,19 @@
+{
+  "name": "rss-news-reader",
+  "version": "1.0.0",
+  "description": "This is a RSS news reader built with React and Prisma 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veiga91/RSS-news-reader.git"
+  },
+  "author": "Wanderson Alexandre Veiga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veiga91/RSS-news-reader/issues"
+  },
+  "homepage": "https://github.com/veiga91/RSS-news-reader#readme"
+}
